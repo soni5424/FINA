@@ -2,7 +2,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Fina - Dashboard",
-  description: "Your personal finance dashboard",
+  description: "Your personal financial dashboard",
 };
 
 export default function DashboardPage() {
